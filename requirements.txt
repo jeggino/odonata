@@ -1,0 +1,8 @@
+pandas
+streamlit
+geopandas
+seaborn
+plotly
+h3
+shapely
+itertools
